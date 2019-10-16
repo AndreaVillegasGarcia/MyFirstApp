@@ -43,7 +43,8 @@ public class MainActivity extends AppCompatActivity {
         //Como no podemos mandar un numero a la vista, lo parseamos a String
         String valor = String.valueOf(result);
         //Podemos combinar las dos ultimas lineas en String suma = String.valueOf(valor1 + valor2);
-        
+
+        //Esto es un comentario para hacer el segundo commit
         resultado.setText(valor);
     }
 }
