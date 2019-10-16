@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MyFirstApp</string>
+    <string name="titulo">Calculadora</string>
+    <string name="num1">Introduce el primer numero</string>
+    <string name="num2">Introduce el segundo numero</string>
+    <string name="suma">Suma</string>
+    <string name="resultado">Resultado</string>
+    <string name="resta">Resta</string>
+    <string name="calcula">Calcula</string>
+</resources>
